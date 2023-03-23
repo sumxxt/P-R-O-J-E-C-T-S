@@ -1,0 +1,15 @@
+Title : Lead Conversion Rate Analysis
+
+Platform : Python-Pandas,numpy, ML,
+Visualization- Seaborn, Matplotlib
+
+Duration : 1 Month
+
+Description : Lead Conversion Rate Analysis is to measure how effectively a company converts its qualified leads into actual
+customers. The Lead Conversion Rate Analysis is to develop an analytical solution that helps businesses understand
+and improve their lead conversion rate. The solution should help identify the key factors that influence lead
+conversion, understand the relationship between these factors, and provide actionable insights to improve the lead
+conversion rate. The goal of this case study was to build a model and help the company find hot leads based on
+various attributes given in the dataset.
+
+Dataset : https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset
